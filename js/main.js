@@ -1,3 +1,3 @@
 let name;
-name='Uwielbiam JavaScript';
+name = 'Uwielbiam JavaScript';
 console.log('Uwielbiam JavaScript');
